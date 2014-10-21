@@ -1,0 +1,9 @@
+C:\Users\Strega\Documents\Self Learning\Unity\ObjectManipulation\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Strega\Documents\Self Learning\Unity\ObjectManipulation\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Strega\Documents\Self Learning\Unity\ObjectManipulation\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Strega\Documents\Self Learning\Unity\ObjectManipulation\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Strega\Documents\Self Learning\Unity\ObjectManipulation\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Strega\Documents\Self Learning\Unity\ObjectManipulation\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Strega\Documents\Self Learning\Unity\ObjectManipulation\obj\Debug\UnityVS.ObjectManipulation.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Strega\Documents\Self Learning\Unity\ObjectManipulation\obj\Debug\Assembly-CSharp.dll
+C:\Users\Strega\Documents\Self Learning\Unity\ObjectManipulation\obj\Debug\Assembly-CSharp.pdb
